@@ -1,0 +1,97 @@
+*{
+    font-family:'Calibri';
+}
+
+#input-field{
+    background: #fff;
+    margin: 5px;
+    font-size: 20px;
+    color: #000;
+    border: 1px dashed #000000;
+}
+
+#input-field:focus{
+    background: #DBEDFE;
+}
+
+#elements-label{
+    font-weight: 600;
+    font-size: 21px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: #dd4124;
+}
+
+#selectOperation{
+
+    font-weight: 600;
+    font-size: 21px;
+    color: #5D0B94;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+#btn-single-matrix{
+    margin: 10px;
+    background: #0F071E
+
+;
+    color: #fff;
+    border: 1px solid #000;
+    font-size: 20px;
+}
+
+#btn-single-matrix:hover{
+   background: #fff;
+    color:#000;
+}
+
+#label-both-matrix-elements{
+    font-weight: 600;
+    font-size: 21px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: #dd4124;
+}
+
+#operation-label{
+    font-size: 25px;
+    color: #2222dd;
+}
+
+#arithmetic-operation-label{
+    font-weight: 600;
+    font-size: 21px;
+    color: #5D0B94;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+#btn-two-matrix{
+    margin: 10px;
+    background: #0F071E
+
+;
+    color: #fff;
+    border: 1px solid #000;
+    font-size: 20px;
+}
+#btn-two-matrix:hover{
+    background: #fff;
+    color:#000;
+}
+
+
+#result-label{
+    font-weight: 600;
+    font-size: 21px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: #3B3A3C;
+}
+
+#label-result-content{
+    font-weight: 600;
+   color: #3B3A3C;
+   font-size: 21px;
+}
